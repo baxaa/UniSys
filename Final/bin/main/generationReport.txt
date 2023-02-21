@@ -1,0 +1,37 @@
+--=( ERRORS )=--
+
+Result Report:
+
+	Operation replace(String, String) is undefined on type null.
+
+	Operation replaceAll(String, String) is undefined on type org.eclipse.ocl.ecore.internal.OCLStandardLibraryImpl$1.
+
+	Operation replaceAll(String, String) is undefined on type org.eclipse.ocl.ecore.internal.OCLStandardLibraryImpl$1.
+
+	Operation replace(String, String) is undefined on type null.
+
+	Operation replaceAll(String, String) is undefined on type org.eclipse.ocl.ecore.internal.OCLStandardLibraryImpl$1.
+
+
+
+--=( WARNINGS )=--
+
+Result Report:
+
+	Some files were generated more than once during this generation.
+
+SuperAdmin.java : 2 times
+Employee.java : 2 times
+Course.java : 2 times
+Book.java : 2 times
+Librarian.java : 2 times
+Student.java : 3 times
+Manager.java : 2 times
+Teacher.java : 3 times
+User.java : 2 times
+TeacherDegree.java : 2 times
+Lesson.java : 2 times
+
+
+
+
